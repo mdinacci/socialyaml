@@ -1,0 +1,11 @@
+twitter:
+    user: MarcoDinacci
+    format: |
+            ---
+            layout: post
+            title: #title
+            type: tweet
+            ---
+            tweet> #body
+
+output_dir: /Users/marco/Projects/social_yaml/posts
